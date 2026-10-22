@@ -1,0 +1,26 @@
+
+server:
+  port: ${PORT:8080}
+
+spring:
+  application:
+    name: smart-hospital-api
+
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/smart_hospital_dev?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC}
+    username: root
+    password: 8891
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+
+gemini:
+  api-key: ${GEMINI_API_KEY}
+  model: gemini-3.5-flash-lite
