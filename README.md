@@ -299,7 +299,7 @@ No license has been specified yet. Contact the repository owner before reusing, 
 
 ## Authors
 
-**Kumar G.**
+- **Kumar G.**
 - **Kaviya S.**
 
 GitHub: https://github.com/G-KUMAR05
