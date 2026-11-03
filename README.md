@@ -297,8 +297,9 @@ These are potential future enhancements and should not be assumed to be implemen
 
 No license has been specified yet. Contact the repository owner before reusing, distributing, or modifying this project beyond the permissions granted by applicable law.
 
-## Author
+## Authors
 
 **Kumar G.**
+**Kaviya S.**
 
 GitHub: https://github.com/G-KUMAR05
