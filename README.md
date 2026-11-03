@@ -299,6 +299,6 @@ No license has been specified yet. Contact the repository owner before reusing, 
 
 ## Author
 
-**Kaviya S.**
+**Kumar G.**
 
-GitHub: https://github.com/KAVIYASHANMUGAM19
+GitHub: https://github.com/G-KUMAR05
